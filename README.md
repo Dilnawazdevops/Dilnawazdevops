@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilnawaz Khan</h1>
 
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD | Docker | Kubernetes</h3>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD | Docker | Jenkins | Kubernetes | Linux |Windows</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=DevOps+Engineer+with+7%2B+Years+of+Experience;AWS+%7C+GCP+%7C+Linux;CI%2FCD+%7C+Jenkins+%7C+Octopus+Deploy;Docker+%7C+Kubernetes;Monitoring+%7C+Automation+%7C+Production+Support" alt="DevOps skills typing animation" />
@@ -39,7 +39,7 @@ I'm a DevOps Engineer with **7+ years of experience** in IT operations, producti
 | Containers & Orchestration | Docker, Docker Compose, Kubernetes |
 | CI/CD | Jenkins, Octopus Deploy |
 | Version Control | Git, GitHub |
-| Operating Systems | Linux |
+| Operating Systems | Linux | windows 
 | Scripting | Bash, Shell scripting, PowerShell |
 | Monitoring & Observability | Grafana, Nagios, Zabbix, Datadog, CloudWatch, Google Cloud Monitoring |
 | Web Servers | Nginx |
